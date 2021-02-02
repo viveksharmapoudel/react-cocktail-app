@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/test-app/static/css/main.f0dfb1a1.chunk.css",
-    "main.js": "/test-app/static/js/main.167ba9c7.chunk.js",
-    "main.js.map": "/test-app/static/js/main.167ba9c7.chunk.js.map",
-    "runtime-main.js": "/test-app/static/js/runtime-main.a5ca61c9.js",
-    "runtime-main.js.map": "/test-app/static/js/runtime-main.a5ca61c9.js.map",
-    "static/js/2.154e8c72.chunk.js": "/test-app/static/js/2.154e8c72.chunk.js",
-    "static/js/2.154e8c72.chunk.js.map": "/test-app/static/js/2.154e8c72.chunk.js.map",
-    "index.html": "/test-app/index.html",
-    "static/css/main.f0dfb1a1.chunk.css.map": "/test-app/static/css/main.f0dfb1a1.chunk.css.map",
-    "static/js/2.154e8c72.chunk.js.LICENSE.txt": "/test-app/static/js/2.154e8c72.chunk.js.LICENSE.txt",
-    "static/media/logo.5bb3b58e.svg": "/test-app/static/media/logo.5bb3b58e.svg"
+    "main.css": "/react-cocktail-app/static/css/main.f0dfb1a1.chunk.css",
+    "main.js": "/react-cocktail-app/static/js/main.167ba9c7.chunk.js",
+    "main.js.map": "/react-cocktail-app/static/js/main.167ba9c7.chunk.js.map",
+    "runtime-main.js": "/react-cocktail-app/static/js/runtime-main.d29edde5.js",
+    "runtime-main.js.map": "/react-cocktail-app/static/js/runtime-main.d29edde5.js.map",
+    "static/js/2.154e8c72.chunk.js": "/react-cocktail-app/static/js/2.154e8c72.chunk.js",
+    "static/js/2.154e8c72.chunk.js.map": "/react-cocktail-app/static/js/2.154e8c72.chunk.js.map",
+    "index.html": "/react-cocktail-app/index.html",
+    "static/css/main.f0dfb1a1.chunk.css.map": "/react-cocktail-app/static/css/main.f0dfb1a1.chunk.css.map",
+    "static/js/2.154e8c72.chunk.js.LICENSE.txt": "/react-cocktail-app/static/js/2.154e8c72.chunk.js.LICENSE.txt",
+    "static/media/logo.5bb3b58e.svg": "/react-cocktail-app/static/media/logo.5bb3b58e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5ca61c9.js",
+    "static/js/runtime-main.d29edde5.js",
     "static/js/2.154e8c72.chunk.js",
     "static/css/main.f0dfb1a1.chunk.css",
     "static/js/main.167ba9c7.chunk.js"
